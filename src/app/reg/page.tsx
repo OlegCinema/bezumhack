@@ -1,7 +1,6 @@
 'use client';
 import React from "react";
 import useSound from 'use-sound';;
-import mySound from "eating-with-mouth-lapping_mkqomsn_.mp3";
 
 
 export default function Home() {
